@@ -64,6 +64,10 @@ I ❤️ developing software !
         <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
       </td>
+        <td width="25%" align="center">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
     </tr>
   </tbody>
 </table>
