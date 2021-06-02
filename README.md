@@ -8,9 +8,6 @@ I ❤️ developing software !
 
 :computer: Software Developer.
 
-:vulcan_salute: I am currently focused on the development of React.
-
-
 ## My Skills
 
 <table>
